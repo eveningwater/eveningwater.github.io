@@ -5,7 +5,7 @@
 ## 实现效果
  我们来查看一下最终实现效果，如下图所示:
  
-![](https://user-gold-cdn.xitu.io/2020/5/10/171fc6a1c41abfa3?w=1093&h=507&f=png&s=15512)
+![](https://image-static.segmentfault.com/968/503/968503412-b6dd63dcc976c221_articlex)
 
 ## 准备工作
 
@@ -13,7 +13,7 @@
 
 我们创建一个message文件夹，然后创建一个index.html文件，以及message.js和message.css文件，如下所示:
 
-![](https://user-gold-cdn.xitu.io/2020/5/10/171fc6d34214cb63?w=1248&h=778&f=png&s=416981)
+![](https://image-static.segmentfault.com/325/549/3255490813-9a4af56cdc2a07fd_articlex)
 
 ### 对消息提示框进行布局
 
@@ -309,5 +309,5 @@ for (let key in typeMap) {
 
 如果以上分析还不懂的话，可以查看我录制的一个视频:
 
-[![从零开始实现一个消息提示框](https://user-gold-cdn.xitu.io/2020/5/10/171fc8ce6c4f382f?w=200&h=112&f=jpeg&s=6147)](https://v.youku.com/v_show/id_XNDY2Njg4Mjk0NA==.html)
+[![从零开始实现一个消息提示框](https://image-static.segmentfault.com/182/508/182508941-02e39faaaa980993_articlex)](https://v.youku.com/v_show/id_XNDY2Njg4Mjk0NA==.html)
 
