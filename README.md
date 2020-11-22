@@ -13,7 +13,7 @@
 + [20个无库无框架的小型web项目(中文版)](/codes/javascript/web-project.md)
 
 ## vue.js
-+ [实现一个clickOutside指令](/codes/javascript/clickoutside.md)
++ [实现一个clickOutside指令](/codes/vue/clickoutside.md)
 
 ## 一些不错的github项目
 
