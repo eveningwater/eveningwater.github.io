@@ -1,6 +1,6 @@
 * 代码相关
     * [首页](/)
-    * [指南](/)
+    * [指南](/codes/README.md)
 * 关于我
     * [掘金](https://juejin.im/user/4054654613988718)
     * [segmentfault](https://segmentfault.com/u/xishui_5ac9a340a5484)
@@ -10,4 +10,4 @@
     * [个人网站](https://www.eveningwater.com/)
     * [个人项目demo集合](https://www.eveningwater.com/my-web-projects/)
     * [门素材](https://www.17sucai.com/user/800544)
-    * [ewColorPicker](https://www.eveningwater.com/ewColorPicker/)
+    * [ewColorPicker](https://eveningwater.github.io/ew-color-picker/)
