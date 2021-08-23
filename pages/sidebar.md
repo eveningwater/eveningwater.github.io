@@ -4,6 +4,7 @@
 ## javascript
 + [从零开始实现一个消息提示框](/codes/javascript/message.md)
 + [20个无库无框架的小型web项目(中文版)](/codes/javascript/web-project.md)
++ [50天用JavaScript完成50个web项目，我学到了什么?](/codes/javascript/50day50project.md)
 
 ## vue.js
 + [实现一个clickOutside指令](/codes/vue/clickoutside.md)
