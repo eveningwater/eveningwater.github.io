@@ -544,7 +544,7 @@ this.ctx.lineCap = "round";
 
 效果如图所示:
 
-![22.png]https://eveningwater.github.io/codes/javascript/50project-images/22.png)
+![22.png](https://eveningwater.github.io/codes/javascript/50project-images/22.png)
 
 * [源码](https://github.com/eveningwater/my-web-projects/tree/master/react/27)
 * [在线示例](https://www.eveningwater.com/my-web-projects/react/27)
