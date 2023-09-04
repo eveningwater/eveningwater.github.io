@@ -314,7 +314,7 @@ export const throttle = (fn, time = 1000) => {
 
 以上2种方式伪代码如下:
 
- ```js
+```js
 //  第1种方式
 const loginInfo = Object.assign({},this.state.loginInfo,{
     [key]:updateValue
