@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>计数器示例1</title>
+    <style>
+        .reset {
+            counter-reset: counter;
+            padding-left: 20px;
+        }
+
+        .counter::before {
+            content: counters(counter, '-') '.';
+            counter-increment: counter;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="reset">
+        <div class="counter">
+            javascript框架
+            <div class="reset">
+                <div class="counter">&nbsp;angular</div>
+                <div class="counter">&nbsp;react</div>
+                <div class="counter">
+                    vue
+                    <div class="reset">
+                        <div class="counter">
+                            vue语法糖
+                            <div class="reset">
+                                <div class="counter">&nbsp;@</div>
+                                <div class="counter">&nbsp;v-</div>
+                                <div class="counter">&nbsp;:</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
